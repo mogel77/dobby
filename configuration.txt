@@ -1,0 +1,11 @@
+#Workspace
+#Fri Dec 23 15:39:09 CET 2022
+verbindung.server.apikey= <<-- HIER DEN API-KEY EINTRAGEN
+ui.toolbar.disk=true
+ui.toolbar.manuell=true
+verbindung.server.ip=127.0.0.1
+ui.toolbar.temperature=true
+ui.toolbar.grid=true
+ui.toolbar.webcam=true
+ui.lookandfeel.laf=com.jtattoo.plaf.aluminium.AluminiumLookAndFeel
+ui.mouse.invisible=true
